@@ -41,6 +41,17 @@ A small educational NOC-style project that demonstrates service availability che
 - A simple incident lifecycle: OPEN -> ACKNOWLEDGED -> RESOLVED.
 - Monitoring history and CSV export for handover/reporting.
 
+## USP
+
+- Live HTTP health checks on multiple services
+- Automatic incident ticket creation on failure
+- Severity classification
+- Full incident lifecycle (Open → Acknowledged → Resolved)
+- Basic diagnosis messages
+- Monitoring history + ability to export incident records
+- Includes a controlled demo outage mode so the complete failure-to-resolution flow can be demonstrated reliably during interviews or demos.
+- Focuses on the operational process used in Network Operations / Incident Management roles rather than just displaying website status.
+
 ## Important limitations
 
 - This is a local, manually triggered prototype, not an always-on production monitoring system.
