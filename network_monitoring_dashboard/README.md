@@ -1,5 +1,7 @@
 # Network Service Monitoring & Incident Desk
 
+🚀 Live Demo: https://monitoringnetworkdashboard.streamlit.app/
+
 A small educational NOC-style project that demonstrates service availability checks, DNS/TCP/HTTP triage, alert-to-ticket creation, severity classification, ticket acknowledgement/resolution, and CSV reporting.
 
 ## Tech stack
