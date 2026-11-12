@@ -54,22 +54,20 @@ A small educational NOC-style project that demonstrates service availability che
 
 ## Screenshots
 
-## Screenshots
-
 ### 1. Normal Dashboard
-![Normal Dashboard](screenshots/dashboard.png)
+![Normal Dashboard](network_monitoring_dashboard/screenshots/dashboard.png)
 
 ### 2. Service Down + Ticket Created
-![Service Down](screenshots/service-down.png)
+![Service Down](network_monitoring_dashboard/screenshots/service-down.png)
 
 ### 3. Ticket Created
-![Ticket Created](screenshots/ticket-created.png)
+![Ticket Created](network_monitoring_dashboard/screenshots/ticket-created.png)
 
 ### 4. Incident Resolved
-![Incident Resolved](screenshots/incident-resolved.png)
+![Incident Resolved](network_monitoring_dashboard/screenshots/incident-resolved.png)
 
 ### 5. Monitoring History (optional)
-![Monitoring History](screenshots/monitoring-history.png)
+![Monitoring History](network_monitoring_dashboard/screenshots/monitoring-history.png)
 
 ## Important limitations
 
